@@ -1,1 +1,1 @@
-# head-first-patterns-excercices
+# Patterns Excersices
